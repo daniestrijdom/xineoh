@@ -26,4 +26,4 @@ Example Outputs:
 - with uniform weighting
 ![alt tag](https://github.com/daniestrijdom/xineoh/blob/master/result2.PNG)
 
-*\note - output format has since been altered
+*note - output format has since been altered
