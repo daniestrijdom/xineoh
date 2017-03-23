@@ -21,9 +21,12 @@ Example Outputs:
 ----------------
 
 - With distance weighting
+
+
 ![alt tag](https://github.com/daniestrijdom/xineoh/blob/master/result1.PNG)
 
-- with uniform weighting
+- With uniform weighting
+
 ![alt tag](https://github.com/daniestrijdom/xineoh/blob/master/result2.PNG)
 
-*note - output format has since been altered
+* Note - output format has since been altered
