@@ -27,10 +27,10 @@ import math
 1: Get data from server
 '''
 
-HOST = '173.45.91.18'
-USER = 'user04'
-PASS = 'KHpz5M18Xkix'
-DB_NAME = 'mnist04'
+HOST = 'XXXX'
+USER = 'XXXX'
+PASS = 'XXXX'
+DB_NAME = 'XXXX'
 
 db = MySQLdb.connect(host=HOST, user=USER, passwd=PASS, db=DB_NAME)
 c = db.cursor()
